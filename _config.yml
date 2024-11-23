@@ -27,7 +27,7 @@ twitter_username: lukelzlz
 github_username:  lukelzlz
 
 # Build settings
-theme: hacker
+theme: jekyll-lin
 plugins:
   - jekyll-feed
 

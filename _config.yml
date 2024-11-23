@@ -27,7 +27,7 @@ twitter_username: lukelzlz
 github_username:  lukelzlz
 
 # Build settings
-theme: jekyll-lin
+theme: linkhub-jekyll-theme
 plugins:
   - jekyll-feed
 

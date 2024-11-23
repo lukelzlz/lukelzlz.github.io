@@ -27,9 +27,10 @@ twitter_username: lukelzlz
 github_username:  lukelzlz
 
 # Build settings
-theme: jekyll-lin
+theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-theme-hamilton
 
 # Exclude from processing.
 # The following items will not be processed, by default.
